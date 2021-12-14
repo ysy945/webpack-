@@ -1,0 +1,20 @@
+{
+  "name": "webpack_source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "webpack_myself": "./bin/webpack_myself.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.15.4",
+    "@babel/parser": "^7.15.5",
+    "@babel/traverse": "^7.15.4",
+    "less": "^4.1.1"
+  }
+}
